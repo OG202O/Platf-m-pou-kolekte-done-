@@ -1,0 +1,6 @@
+{
+  "name": "Plateforme Politique Sécurisée",
+  "description": "Plateforme web complète, moderne, sécurisée et de haute sécurité permettant de gérer les membres, sympathisants et volontaires pour une organisation politique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
